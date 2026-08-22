@@ -1,0 +1,7 @@
+{
+  "reportExplicitAny": "none",
+  "reportAny": "none",
+  "reportUnknownVariableType": "none",
+  "reportUnknownArgumentType": "none",
+  "reportUnknownMemberType": "none"
+}
