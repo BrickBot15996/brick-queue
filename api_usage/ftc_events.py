@@ -1,13 +1,13 @@
 # FTC Events API Docs: https://ftc-events.firstinspires.org/api-docs/index.html
 
 import asyncio
-import os
 import base64
-import httpx
-
-from dotenv import load_dotenv
+import os
 from pathlib import Path
 from typing import Any, Literal
+
+from dotenv import load_dotenv
+import httpx
 
 ENV_PATH = Path(__file__).resolve().parent.parent / '.env'
 _ = load_dotenv(dotenv_path=ENV_PATH)

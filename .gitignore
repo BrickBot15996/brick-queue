@@ -11,3 +11,6 @@ wheels/
 
 # Virtual Environment
 .venv
+
+# Example JSON responses
+/response_examples/*/
